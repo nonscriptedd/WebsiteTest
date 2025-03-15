@@ -1,10 +1,18 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #585858;
 }
 
-.anchor1 {
-    color: rgb(0, 0, 185);
+a {
+    color: white;
+}
+
+.header1 {
     position: absolute;
-    left: 40px;
-    top: 10px;
+    left: 620px;
+    top: -10px;
+}
+
+.text1 {
+    position: absolute;
+    top: 60px;
 }
