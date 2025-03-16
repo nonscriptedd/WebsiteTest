@@ -1,9 +1,9 @@
 body {
-    background-color: #585858;
+    background-color: #eaeaea;
 }
 
 a {
-    color: white;
+    color: rgb(67, 82, 255);
 }
 
 .header1 {
@@ -15,4 +15,22 @@ a {
 .text1 {
     position: absolute;
     top: 60px;
+}
+
+.flow {
+    color: rgb(46, 217, 134);
+    position: absolute;
+    left: 170px;
+    top: 20px;
+    font-size: xx-large;
+}
+
+.topline {
+    background-color: black;
+    height: 2px;
+    color: #eaeaea;
+    position: absolute;
+    left: -700px;
+    top: 60px;
+    width: 1616px;
 }
