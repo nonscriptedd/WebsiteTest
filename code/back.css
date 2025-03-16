@@ -17,14 +17,6 @@ a {
     top: 60px;
 }
 
-.flow {
-    color: rgb(46, 217, 134);
-    position: absolute;
-    left: 170px;
-    top: 20px;
-    font-size: xx-large;
-}
-
 .topline {
     background-color: black;
     height: 2px;
@@ -33,4 +25,21 @@ a {
     left: -700px;
     top: 60px;
     width: 1616px;
+}
+
+.topping {
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    left: -620px;
+    height: 50px;
+    top: 10px;
+    width: 1536px;
+    align-items: start;
+    background-color: rgb(32, 233, 119);
+}
+
+.painandsuffer {
+    position: absolute;
+    top: -10px;
+    left: 10px;
 }
