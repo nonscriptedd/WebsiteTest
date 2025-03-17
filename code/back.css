@@ -13,6 +13,8 @@ a {
 }
 
 .text1 {
+    font-size: x-large;
+    font-family: monospace;
     position: absolute;
     top: 60px;
 }
@@ -35,11 +37,19 @@ a {
     top: 10px;
     width: 1536px;
     align-items: start;
-    background-color: rgb(32, 233, 119);
+    background-color: rgb(255, 121, 76);
 }
 
 .painandsuffer {
+    font-family: monospace;
     position: absolute;
     top: -10px;
     left: 10px;
+}
+
+.text2 {
+    font-family: monospace;
+    position: absolute;
+    top: 90px;
+    font-size: x-large;
 }
